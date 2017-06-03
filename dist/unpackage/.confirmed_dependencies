@@ -1,0 +1,13 @@
+{
+  "index.html": {
+    "href": "index.html",
+    "resources": [
+      "css/reset.css",
+      "css/main.css",
+      "css/iconfont/iconfont.css",
+      "js/bundle.js"
+    ],
+    "refer": [],
+    "priority": 0
+  }
+}

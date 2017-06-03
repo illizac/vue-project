@@ -1,0 +1,77 @@
+html{
+	font-size: 18.51vw;
+}
+
+body{
+	font-size: .16rem;
+}
+
+html,body{
+  width: 100%;
+  height: 100%;
+}
+
+a:active, a:hover{
+	text-decoration: none;
+}
+.meta{
+  line-height: .3rem;
+  padding: .43rem 0 .32rem;
+}
+.meta .author{
+  font-size: .25rem;
+  font-weight: bolder;
+  height: .3rem;
+  padding: 0 .22rem 0 .15rem;
+  box-sizing: border-box;
+}
+.meta .bio{
+  font-size: .22rem;
+  color: #999;
+}
+.avatar{
+    width: .30rem;
+    height: .30rem;
+    border-radius: .05rem;
+    display: inline-block;
+}
+
+.heading{
+  font-size: .22rem;
+  color: #999;
+}
+
+.onlyheading{
+  padding-bottom: .7rem;
+  font-size: .3rem;
+  line-height: .4rem;
+}
+.heading-content{
+  font-size: .24rem;
+  color: #444;
+  line-height: .3rem;
+  padding-bottom: .55rem;
+}
+.question-title{
+  line-height: .39rem;
+  font-size: .27rem;
+}
+
+.view-more{
+  background: #f0f0f0;
+  text-align: center;
+  height: .45rem;
+  line-height: .45rem;
+  font-size: .22rem;
+  margin-top: .4rem;
+  margin-bottom: .37rem;
+}
+.view-more a{
+  color: #b8b8b8;
+}
+.answer p{
+  padding-bottom: .4rem;
+  font-size: .23rem;
+  color: #444;
+  line-height: .4rem;
+}
